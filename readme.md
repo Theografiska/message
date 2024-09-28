@@ -5,7 +5,10 @@
 This program creates a unique message based on 2000s pop hits.
 
 ### Technologies used:
-> Javascript
+> Javascript (in Visual Studio Code)
+> Markdown (in Visual Studio Code)
+> Git (initializing in Terminal)
+> GitHub (pushing from Terminal)
 
 ### Technologies to add:
 > HTML / CSS
