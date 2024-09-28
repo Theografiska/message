@@ -39,6 +39,8 @@ const phraseFour = [
     "your love's got me looking so crazy right now."
 ];
 
+// combining the phrases into a unique randomly generated message and logging them to the console. 
+
 const finalSentence = phraseOne[Math.floor(Math.random() * phraseOne.length)] 
 + phraseTwo[Math.floor(Math.random() * phraseTwo.length)]
 + phraseThree[Math.floor(Math.random() * phraseThree.length)]
