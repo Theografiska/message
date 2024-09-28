@@ -11,4 +11,4 @@ This program creates a unique message based on 2000s pop hits.
 - GitHub (pushing from Terminal)
 
 ### Technologies to add:
-> HTML / CSS
+- HTML / CSS
