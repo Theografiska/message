@@ -9,6 +9,4 @@ This program creates a unique message based on 2000s pop hits.
 - Markdown (in Visual Studio Code)
 - Git (initializing in Terminal)
 - GitHub (pushing from Terminal)
-
-### Technologies to add:
-- HTML / CSS
+- Basic HTML/CSS. Link to view live site: 
